@@ -182,19 +182,7 @@ assistant1.displayinfo()
 
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
